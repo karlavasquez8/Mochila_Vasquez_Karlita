@@ -1,0 +1,9 @@
+Direcciones de mi maquina Virtual :
+-IP PRIVADA:10.0.2.15
+-IP PUBLICA:190.237.37.172
+-Direccion MAC:08:00:27:6f:4c:05
+
+Diferencia entre la IP PUBLICA y la IP PRIVADA de nuestra maquina host
+
+- Si, cuando ejecutas una maquina virtual en virtual box , la maquina vortual se configura con su 
+propia interfaz de red virtual y obtiene una direccion IP privada aseignada a esa interfaz.
